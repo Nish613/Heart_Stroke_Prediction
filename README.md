@@ -144,9 +144,3 @@ KNN was selected because it gave the best overall performance among the tested m
 
 ---
 
-## Disclaimer
-
-This project is made for educational and learning purposes only.  
-It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
-
----
