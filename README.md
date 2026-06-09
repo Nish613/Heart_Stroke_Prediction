@@ -9,7 +9,7 @@ The final deployed application uses a trained **K-Nearest Neighbors (KNN)** clas
 
 Try the deployed app here:
 
-https://emotionpredictor-app.streamlit.app/
+https://heartstrokepredictor-app.streamlit.app/
 
 ---
 
